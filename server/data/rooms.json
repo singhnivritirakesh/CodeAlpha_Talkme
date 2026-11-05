@@ -1,0 +1,12 @@
+[
+  {
+    "_id": "room_fjus38cq",
+    "roomId": "test-room-355",
+    "title": "Alex's Sprint Planning",
+    "hostId": "user_7qoakiw9",
+    "hostName": "alexdev",
+    "isLocked": false,
+    "maxParticipants": 6,
+    "createdAt": "2026-11-05T17:40:28.148Z"
+  }
+]

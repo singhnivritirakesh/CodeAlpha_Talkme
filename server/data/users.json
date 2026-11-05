@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "user_7qoakiw9",
+    "username": "alexdev",
+    "email": "alex_1793900427972@example.com",
+    "password": "$2b$10$kLkctafWlP/JhjBL2J2Tge4QgwXPi6.fr0WIG3ftwpjqacvsWz80y",
+    "avatar": "https://api.dicebear.com/7.x/identicon/svg?seed=alexdev",
+    "refreshTokens": [
+      "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ1c2VyXzdxb2FraXc5IiwiaWF0IjoxNzkzOTAwNDI4LCJleHAiOjE3OTQ1MDUyMjh9.Kzl7HisTqhFS2wSf_5bNj-bJkviUknk3uN1ISknf_Ns"
+    ],
+    "isGuest": false,
+    "createdAt": "2026-11-05T17:40:28.005Z",
+    "updatedAt": "2026-11-05T17:40:28.122Z"
+  }
+]
